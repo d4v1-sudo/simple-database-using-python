@@ -7,7 +7,7 @@ This is a simple command-line todo application that allows you to manage your ta
 1. Clone the repository:
 
    ``` shell
-   git clone https://github.com/your-username/todo-app.git
+   https://github.com/d4v1-sudo/simple-database-using-python.git
    ```
 
 2. Navigate to the project directory:
