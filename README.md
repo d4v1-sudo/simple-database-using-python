@@ -1,4 +1,4 @@
-# Database App
+# 🗃️💾 - Database App
 
 This is a simple command-line todo application that allows you to manage your tasks by adding, completing, and deleting them. You can also view your task list.
 
