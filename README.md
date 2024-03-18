@@ -1,6 +1,6 @@
-# 🗃️💾 - Database App
+# 🗃️💾 - To do list manager based in SQLite using Python
 
-This is a simple command-line todo application that allows you to manage your tasks by adding, completing, and deleting them. You can also view your task list.
+This is a simple command-line application that allows you to manage your to do tasks by adding, completing, and deleting them. You can also view your task list.
 
 ## Installation
 
@@ -40,4 +40,6 @@ This is a simple command-line todo application that allows you to manage your ta
 
 Make sure you have Python3 installed on your system to run this application.
 
-Enjoy managing your tasks with this simple todo app!
+Enjoy managing your tasks with this simple script!
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2Fsimple-database-using-python"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2Fsimple-database-using-python&label=Thanks%20for%20dropping%20in&countColor=%23d9e3f0" /></a>
