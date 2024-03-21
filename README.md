@@ -13,7 +13,7 @@ This is a simple command-line application that allows you to manage your to do t
 2. Navigate to the project directory:
 
    ``` shell
-   cd Database
+   cd simple-database-using-python
    ```
 
 3. Run the application:
